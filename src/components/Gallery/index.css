@@ -1,0 +1,23 @@
+/* Write your code here. */
+.bg-container {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+.big-image {
+  height: 60vh;
+  width: 70%;
+}
+.heading {
+  color: #1e293b;
+  font-size: 'Roboto';
+}
+.paragraph {
+  color: #64748b;
+  font-size: 'Roboto';
+  font-weight: 700;
+}
+.unorder-list {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+}
